@@ -1,0 +1,824 @@
+createSession|2019-07-23 12:56:48|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:SOAPAPIWS"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>4DA2E275433E00FA8B10</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 12:56:48|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:SOAPAPIWS"><SOAP-ENV:Body><ns1:login><session>4DA2E275433E00FA8B10</session><user>PUREGOLD</user><password>3e4cde41d7b0362b6b9d4cf294adcc582b784655</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 12:56:49|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:SOAPAPIWS"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>4DA2E275433E00FA8B10</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6344796.7410</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 13:02:11|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="C:\wamp\www\INQUIRY_API\application\third_party/SoapApiService.wsdl"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>DB3B79C44397ABC7E7BD</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:02:11|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="C:\wamp\www\INQUIRY_API\application\third_party/SoapApiService.wsdl"><SOAP-ENV:Body><ns1:login><session>DB3B79C44397ABC7E7BD</session><user>PUREGOLD</user><password>8e17e62e5bb7e98858ab3a186aba5797654812da</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:02:11|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="C:\wamp\www\INQUIRY_API\application\third_party/SoapApiService.wsdl"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>DB3B79C44397ABC7E7BD</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6318324.1810</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 13:03:30|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>48F52A8D4BB650D34880</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:03:30|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>48F52A8D4BB650D34880</session><user>PUREGOLD</user><password>c1b38af8f984c18f6bd8e560bb3a8608f98fda3a</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:03:31|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>48F52A8D4BB650D34880</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6316738.2810</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 13:07:11|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>523FAA0D413BE1635F6C</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:07:12|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>523FAA0D413BE1635F6C</session><user>PUREGOLD</user><password>ea520abdfa9fde012acb1aa91dff901c024cea37</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:07:12|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>523FAA0D413BE1635F6C</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6295975.3910</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 13:07:32|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>B54D71BE43107943FC7A</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:07:32|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>B54D71BE43107943FC7A</session><user>PUREGOLD</user><password>90e9765f35042961ef938f49b8d4107cd32118a9</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:07:32|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>B54D71BE43107943FC7A</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6295908.6110</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 13:07:35|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>E19B9F98456AB5C43B1B</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:07:35|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>E19B9F98456AB5C43B1B</session><user>PUREGOLD</user><password>2b314f8d42058bd306e3f6de1ed9858047081343</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:07:36|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>E19B9F98456AB5C43B1B</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6295908.6110</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 13:07:39|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>C04FE7E2480B40A94BB2</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:07:39|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>C04FE7E2480B40A94BB2</session><user>PUREGOLD</user><password>a3b29a9fb60feb551db36948f8d436e6948f34f1</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:07:39|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>C04FE7E2480B40A94BB2</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6295908.6110</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 13:07:40|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>941C20B741F47CA80BAA</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:07:40|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>941C20B741F47CA80BAA</session><user>PUREGOLD</user><password>07041854fb6d97ae298f149baa715d2410073343</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:07:40|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>941C20B741F47CA80BAA</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6295908.6110</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 13:07:41|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>14639AF5442AAD8C2B1F</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:07:41|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>14639AF5442AAD8C2B1F</session><user>PUREGOLD</user><password>a2ebd2d91319cdb2365911e3952bb76bbe2e33db</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:07:41|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>14639AF5442AAD8C2B1F</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6295908.6110</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 13:07:42|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>4A393C6B422504F34F1F</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:07:43|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>4A393C6B422504F34F1F</session><user>PUREGOLD</user><password>97f8c1c13c9aca9706198ab96d8aa284d991f0c9</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:07:43|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>4A393C6B422504F34F1F</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6295908.6110</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 13:07:45|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>E3AD0D9F49B4C86515CB</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:07:45|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>E3AD0D9F49B4C86515CB</session><user>PUREGOLD</user><password>67e0640dbddb1373c04abe71d7433a0e0d6b0d96</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:07:45|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>E3AD0D9F49B4C86515CB</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6295908.6110</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 13:08:19|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>6B9C486A4B0210182D06</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:08:20|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>6B9C486A4B0210182D06</session><user>PUREGOLD</user><password>e5996d6a871c65403ffbebb22a87f0b92893c9b4</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:08:20|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>6B9C486A4B0210182D06</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6295698.7110</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession_error|2019-07-23 13:08:43|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|Could not connect to host
+
+createSession_error|2019-07-23 13:09:09|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|Could not connect to host
+
+createSession|2019-07-23 13:09:32|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>CF3975D3403F43010EB8</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:09:32|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>CF3975D3403F43010EB8</session><user>PUREGOLD</user><password>97eb419830f330334ef23a960efda2d518e88f7d</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:09:32|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>CF3975D3403F43010EB8</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6293922.0210</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession_error|2019-07-23 13:11:07|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|Could not connect to host
+
+createSession_error|2019-07-23 13:11:47|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|Could not connect to host
+
+createSession|2019-07-23 13:12:05|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="C:\wamp\www\INQUIRY_API\application\third_party/SoapApiService.wsdl"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>3E54FC37484AB6FD11B6</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:12:05|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="C:\wamp\www\INQUIRY_API\application\third_party/SoapApiService.wsdl"><SOAP-ENV:Body><ns1:login><session>3E54FC37484AB6FD11B6</session><user>PUREGOLD</user><password>451053c3c0c1fcb34aabb64416b7564fe4eb543a</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:12:06|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="C:\wamp\www\INQUIRY_API\application\third_party/SoapApiService.wsdl"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>3E54FC37484AB6FD11B6</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6286735.4710</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession_error|2019-07-23 13:12:28|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="C:\wamp\www\INQUIRY_API\application\third_party/SoapApiService.wsdl"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|Could not connect to host
+
+createSession_error|2019-07-23 13:12:56|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="C:\wamp\www\INQUIRY_API\application\third_party/SoapApiService.wsdl"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|Could not connect to host
+
+createSession|2019-07-23 13:13:08|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="C:\wamp\www\INQUIRY_API\application\third_party/SoapApiService.wsdl"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>109407A04750214DDDC8</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:13:09|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="C:\wamp\www\INQUIRY_API\application\third_party/SoapApiService.wsdl"><SOAP-ENV:Body><ns1:login><session>109407A04750214DDDC8</session><user>PUREGOLD</user><password>066185a1e990bfdf2cd8aa4f2bdc256d16107b83</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:13:09|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="C:\wamp\www\INQUIRY_API\application\third_party/SoapApiService.wsdl"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>109407A04750214DDDC8</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6284640.0710</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 13:13:32|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>31CFF592488D8F66C4C8</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:13:32|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>31CFF592488D8F66C4C8</session><user>PUREGOLD</user><password>518a7b02312a1394a0a8c1fae5282ce9a4c31161</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:13:32|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>31CFF592488D8F66C4C8</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6281563.7310</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 13:36:49|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>93C6CF9741AC931439F2</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 13:36:49|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>93C6CF9741AC931439F2</session><user>PUREGOLD</user><password>6b15d522c289d9477fee889fa9dd6ef9dc407aad</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 13:36:49|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>93C6CF9741AC931439F2</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6187578.5460</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 14:12:54|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>12D6DE3941A4B60FEC7E</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 14:12:54|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>12D6DE3941A4B60FEC7E</session><user>PUREGOLD</user><password>691cd6c2b0a2220f5697f82f06df0773cb3d7949</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 14:12:55|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>12D6DE3941A4B60FEC7E</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>6010638.7360</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 15:34:57|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>776C773B44B89874BFA7</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 15:34:57|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>776C773B44B89874BFA7</session><user>PUREGOLD</user><password>757dc69859884329a00a776b45e858b54622130c</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 15:34:57|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>776C773B44B89874BFA7</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>5589341.6760</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+createSession|2019-07-23 16:01:34|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:createSession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:createSessionResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<session>DC7F66324812FB21E811</session>
+</return>
+</q0:createSessionResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+login|2019-07-23 16:01:34|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:login><session>DC7F66324812FB21E811</session><user>PUREGOLD</user><password>041f36250e0bf3e0c649e3b2e17712b270acc7ec</password></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:loginResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:loginResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+
+walletBalanceQuery|2019-07-23 16:01:34|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://autoloadmax.globe.com.ph/http/AmarettoAmax/SOAPAPIR2HTTPSrvr"><SOAP-ENV:Body><ns1:walletBalanceQuery><session>DC7F66324812FB21E811</session><wallet>A</wallet></ns1:walletBalanceQuery></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='utf-8'?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<q0:walletBalanceQueryResponse xmlns:q0="http://soap.amaretto.globe.com">
+<return>
+<balance>16649223.5910</balance>
+<resultCode>0</resultCode>
+<sessionResultCode>0</sessionResultCode>
+</return>
+</q0:walletBalanceQueryResponse>
+</soapenv:Body>
+</soapenv:Envelope>
+

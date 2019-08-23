@@ -1,0 +1,8 @@
+login|2019-07-25 10:53:06|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>BE5F110E17CBEB009B368077575479367F96531A</ns1:pin><ns1:sessionid>XHT3FQF0WEDRVIXZS1QF</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1953395833</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+balance|2019-07-25 10:53:06|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:balance><ns1:balanceRequest><ns1:sessionid>XHT3FQF0WEDRVIXZS1QF</ns1:sessionid></ns1:balanceRequest></ns1:balance></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><balanceResponse xmlns="urn:GCASHWS"><balanceReturn><transid>1953395834</transid><result>0</result><result_namespace>utrust</result_namespace><balance>36280289.12</balance></balanceReturn></balanceResponse></S:Body></S:Envelope>
+

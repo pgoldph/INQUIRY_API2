@@ -1,0 +1,132 @@
+validate_user|2019-07-26 14:14:34
+
+REQUEST: 
+
+{
+    "emp_no": "680000028",
+    "emp_pass": "MyB@17"
+}
+
+RESPONSE: 
+
+{
+    "code": "USER",
+    "code_message": "SUCCESS",
+    "first_name": "KELVIN RAY",
+    "last_name": "COLOMA",
+    "dept": "107 - MANAGEMENT INFORMATIONS SYSTEM"
+}
+
+--------------------------------------------------------------------------------------------------------
+
+
+validate_user|2019-07-26 14:18:25
+
+REQUEST: 
+
+{
+    "emp_no": "680000028",
+    "emp_pass": "MyB@17"
+}
+
+RESPONSE: 
+
+{
+    "code": "USER",
+    "code_message": "SUCCESS",
+    "first_name": "KELVIN RAY",
+    "last_name": "COLOMA",
+    "dept": "107 - MANAGEMENT INFORMATIONS SYSTEM"
+}
+
+--------------------------------------------------------------------------------------------------------
+
+
+validate_user|2019-07-26 14:18:30
+
+REQUEST: 
+
+{
+    "emp_no": "680000028",
+    "emp_pass": "MyB@17"
+}
+
+RESPONSE: 
+
+{
+    "code": "USER",
+    "code_message": "SUCCESS",
+    "first_name": "KELVIN RAY",
+    "last_name": "COLOMA",
+    "dept": "107 - MANAGEMENT INFORMATIONS SYSTEM"
+}
+
+--------------------------------------------------------------------------------------------------------
+
+
+validate_user|2019-07-26 14:26:13
+
+REQUEST: 
+
+{
+    "emp_no": "680000028",
+    "emp_pass": "MyB@17"
+}
+
+RESPONSE: 
+
+{
+    "code": "USER",
+    "code_message": "SUCCESS",
+    "first_name": "KELVIN RAY",
+    "last_name": "COLOMA",
+    "dept": "107 - MANAGEMENT INFORMATIONS SYSTEM"
+}
+
+--------------------------------------------------------------------------------------------------------
+
+
+validate_user|2019-07-26 14:26:45
+
+REQUEST: 
+
+{
+    "emp_no": "680000028",
+    "emp_pass": "MyB@17"
+}
+
+RESPONSE: 
+
+{
+    "code": "USER",
+    "code_message": "SUCCESS",
+    "first_name": "KELVIN RAY",
+    "last_name": "COLOMA",
+    "dept": "107 - MANAGEMENT INFORMATIONS SYSTEM"
+}
+
+--------------------------------------------------------------------------------------------------------
+
+
+validate_user|2019-07-26 15:29:06|192.168.110.115
+
+REQUEST: 
+
+{
+    "emp_no": "680000028",
+    "emp_pass": "MyB@17"
+}
+
+RESPONSE: 
+
+{
+    "code": "USER",
+    "code_message": "SUCCESS",
+    "first_name": "KELVIN RAY",
+    "last_name": "COLOMA",
+    "dept": "107 - MANAGEMENT INFORMATIONS SYSTEM"
+}
+
+--------------------------------------------------------------------------------------------------------
+
+

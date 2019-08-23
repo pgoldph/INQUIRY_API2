@@ -1,0 +1,184 @@
+login|2019-07-23 9:22:35|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:createsession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><createsessionResponse xmlns="urn:GCASHWS"><createsessionReturn><sessionid>CAWMNTK0VGV9RYYDQWGK</sessionid><result>0</result><result_namespace>session</result_namespace></createsessionReturn></createsessionResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:23:04|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:createsession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><createsessionResponse xmlns="urn:GCASHWS"><createsessionReturn><sessionid>VX6W256L2Z843A0XE4HL</sessionid><result>0</result><result_namespace>session</result_namespace></createsessionReturn></createsessionResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:24:03|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:createsession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><createsessionResponse xmlns="urn:GCASHWS"><createsessionReturn><sessionid>GH1GXUILM31DHDVCVTFZ</sessionid><result>0</result><result_namespace>session</result_namespace></createsessionReturn></createsessionResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:30:14|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:createsession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><createsessionResponse xmlns="urn:GCASHWS"><createsessionReturn><sessionid>6O7PVR1IG9YLEYEG51W7</sessionid><result>0</result><result_namespace>session</result_namespace></createsessionReturn></createsessionResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:30:26|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:createsession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><createsessionResponse xmlns="urn:GCASHWS"><createsessionReturn><sessionid>NINVDJCJARV1SJGNH7R7</sessionid><result>0</result><result_namespace>session</result_namespace></createsessionReturn></createsessionResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:30:40|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:createsession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><createsessionResponse xmlns="urn:GCASHWS"><createsessionReturn><sessionid>OPGO0BMA3JJBNTLG00SA</sessionid><result>0</result><result_namespace>session</result_namespace></createsessionReturn></createsessionResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:31:00|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:createsession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><createsessionResponse xmlns="urn:GCASHWS"><createsessionReturn><sessionid>BLS2BWPEVGFCJA5J2ZPH</sessionid><result>0</result><result_namespace>session</result_namespace></createsessionReturn></createsessionResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:31:21|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:createsession/></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><createsessionResponse xmlns="urn:GCASHWS"><createsessionReturn><sessionid>WJUIFZKFZNI7HF13C3S1</sessionid><result>0</result><result_namespace>session</result_namespace></createsessionReturn></createsessionResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:33:41|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><loginRequest><initiator>puregold-ho</initiator><pin>81DDF5FCA057D1DF5669706A5ED8DEB678B7CAC4</pin><sessionid>QF379SQYCAIGRGP4ARAK</sessionid></loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><result>1</result><result_namespace>session</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:36:59|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><loginRequest><initiator>puregold-ho</initiator><pin>720DAA110BE63E0DDD3359BF954A83B23A0C5EC0</pin><sessionid>5YDF9JS12R3OO6N8BE6X</sessionid></loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><result>1</result><result_namespace>session</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:37:35|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><loginRequest><initiator>puregold-ho</initiator><pin>B6AD0607C13B36B4AE861E97582A2CA87535FF35</pin><sessionid>LGK7B980FATDI1HPP66K</sessionid></loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><result>1</result><result_namespace>session</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:37:54|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>2193C09F95BE98802B5942F8B3D3CCD4A0E8EE70</ns1:pin><ns1:sessionid>9EXOZAPVGUOVYZA723L0</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885027445</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:39:08|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><loginRequest><initiator>puregold-ho</initiator><pin>852FB26E369F435DCBD691DDB4726FC7C0772A9D</pin><sessionid>630XDA6E5755LDS806PT</sessionid></loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><result>1</result><result_namespace>session</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:39:53|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>BFCC8D60DC2D296B3A3F3D13929CF772AE2000C1</ns1:pin><ns1:sessionid>UMJL7EOBUN2QPRTQAOOA</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885078646</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:47:32|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>5F5773525DBC2870D361F36719608F236FF77B7D</ns1:pin><ns1:sessionid>5P9XFYHGGFWKNN8XCOOG</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885282192</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:47:46|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>44824CB34D01F275EB40D13A336BFA9AEDFB7829</ns1:pin><ns1:sessionid>DJE2SP6EYXTKLZKQEJNV</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885263968</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:47:51|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>D645761B2D55F56962BCB5DFE1D47E9B2A6A8D2D</ns1:pin><ns1:sessionid>BYOSF20WKF1MG2YUVG24</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885279289</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:52:28|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>0C91F4CF1E9A847E373C30073D3BFDDD7300933B</ns1:pin><ns1:sessionid>P2IN4H3F0ELVN8PORIAN</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885406412</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:52:55|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>99AF0A97CF159E70F84C3E099C852BC25D4EA7F8</ns1:pin><ns1:sessionid>8SCCD313UBNK7EEADFEG</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885426759</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:54:24|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>1C243786C9B3FF347BA08C421D9BF4FDCF5BF3A8</ns1:pin><ns1:sessionid>IGIK4E134QAP2D7N7VV6</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885460401</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:57:47|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>5B66DD69C645121E82B2C43A0E55D179DDC88E91</ns1:pin><ns1:sessionid>X3VLEEHPD11F2NNHN2QF</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885544915</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:58:19|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>677D83E4B06DF972D1B79AAC0373A509BD18C6F7</ns1:pin><ns1:sessionid>L2W20EYHJDVAPP7WTXA2</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885565588</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:58:59|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>CB3C75536DD014669D43F9DB5C69FC40DD66695C</ns1:pin><ns1:sessionid>I5SB0BZ377EIG3TTSBWE</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885591010</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+balance|2019-07-23 9:59:00|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:balance><ns1:balanceRequest><ns1:sessionid>I5SB0BZ377EIG3TTSBWE</ns1:sessionid></ns1:balanceRequest></ns1:balance></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><balanceResponse xmlns="urn:GCASHWS"><balanceReturn><transid>1885591011</transid><result>0</result><result_namespace>utrust</result_namespace><balance>61206369.03</balance></balanceReturn></balanceResponse></S:Body></S:Envelope>
+
+login|2019-07-23 9:59:22|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>9E0D182E4D6D96C6726DBF5492EC7A0D312A7154</ns1:pin><ns1:sessionid>MNZCQLHTQ3OJRRQPWRD9</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885583657</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+balance|2019-07-23 9:59:22|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:balance><ns1:balanceRequest><ns1:sessionid>MNZCQLHTQ3OJRRQPWRD9</ns1:sessionid></ns1:balanceRequest></ns1:balance></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><balanceResponse xmlns="urn:GCASHWS"><balanceReturn><transid>1885583659</transid><result>0</result><result_namespace>utrust</result_namespace><balance>61204997.03</balance></balanceReturn></balanceResponse></S:Body></S:Envelope>
+
+login|2019-07-23 10:00:20|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>7EEB0EFB8270C71B8C37A111A29DC68435A5A067</ns1:pin><ns1:sessionid>GK9X19WCQVTH1PLC2QIC</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885628830</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+balance_error|2019-07-23 10:00:20|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:balance><ns1:balanceRequest><ns1:sessionids>GK9X19WCQVTH1PLC2QIC</ns1:sessionids></ns1:balanceRequest></ns1:balance></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><balanceResponse xmlns="urn:GCASHWS"><balanceReturn><result>1</result><result_namespace>session</result_namespace></balanceReturn></balanceResponse></S:Body></S:Envelope>
+
+login|2019-07-23 10:02:36|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>8BF60BA2A4F3976237E8E632646DC2CA649BBB50</ns1:pin><ns1:sessionid>CQGY9UJXST15T6AS3UDG</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885687527</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+balance_error|2019-07-23 10:02:36|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:balance><ns1:balanceRequest><ns1:sessionids>CQGY9UJXST15T6AS3UDG</ns1:sessionids></ns1:balanceRequest></ns1:balance></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><balanceResponse xmlns="urn:GCASHWS"><balanceReturn><result>1</result><result_namespace>session</result_namespace></balanceReturn></balanceResponse></S:Body></S:Envelope>
+
+login|2019-07-23 10:03:06|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>9B6EFAFC66A1C331DC37121A19D36B2C13414771</ns1:pin><ns1:sessionid>EZ332DX41DX4ZUUW8RNN</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1885698770</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+balance|2019-07-23 10:03:06|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:balance><ns1:balanceRequest><ns1:sessionid>EZ332DX41DX4ZUUW8RNN</ns1:sessionid></ns1:balanceRequest></ns1:balance></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><balanceResponse xmlns="urn:GCASHWS"><balanceReturn><transid>1885698772</transid><result>0</result><result_namespace>utrust</result_namespace><balance>61167096.42</balance></balanceReturn></balanceResponse></S:Body></S:Envelope>
+
+login|2019-07-23 13:07:28|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>CE79610F8622B8DBC17AC3DDF3F9AD9B6B8536AD</ns1:pin><ns1:sessionid>742C3WHRSD2L5GQZ9N0I</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1890579576</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+balance|2019-07-23 13:07:28|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:balance><ns1:balanceRequest><ns1:sessionid>742C3WHRSD2L5GQZ9N0I</ns1:sessionid></ns1:balanceRequest></ns1:balance></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><balanceResponse xmlns="urn:GCASHWS"><balanceReturn><transid>1890579577</transid><result>0</result><result_namespace>utrust</result_namespace><balance>58116485.82</balance></balanceReturn></balanceResponse></S:Body></S:Envelope>
+
+login|2019-07-23 13:09:17|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>1D956AE7634C8BF270374F41A9CDCFB0CEB2B3B9</ns1:pin><ns1:sessionid>SY3KPS4PYIC7J7P9C3ON</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1890629297</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+balance|2019-07-23 13:09:17|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:balance><ns1:balanceRequest><ns1:sessionid>SY3KPS4PYIC7J7P9C3ON</ns1:sessionid></ns1:balanceRequest></ns1:balance></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><balanceResponse xmlns="urn:GCASHWS"><balanceReturn><transid>1890629298</transid><result>0</result><result_namespace>utrust</result_namespace><balance>58116385.82</balance></balanceReturn></balanceResponse></S:Body></S:Envelope>
+
+login|2019-07-23 13:36:55|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>AC36D1C152DDE4DAFC3530E2EFF2B0E9C236902F</ns1:pin><ns1:sessionid>X1R5VNJVY65WWYPQ88QL</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1891372067</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+balance|2019-07-23 13:36:55|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:balance><ns1:balanceRequest><ns1:sessionid>X1R5VNJVY65WWYPQ88QL</ns1:sessionid></ns1:balanceRequest></ns1:balance></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><balanceResponse xmlns="urn:GCASHWS"><balanceReturn><transid>1891372068</transid><result>0</result><result_namespace>utrust</result_namespace><balance>57737050.84</balance></balanceReturn></balanceResponse></S:Body></S:Envelope>
+
+login|2019-07-23 14:59:15|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>0DB63D0DABBD0A27024E02EEE862B2DAFF28D9B2</ns1:pin><ns1:sessionid>RC5K76Y5XIVRCQ44GAX9</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1893501181</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+balance|2019-07-23 14:59:15|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:balance><ns1:balanceRequest><ns1:sessionid>RC5K76Y5XIVRCQ44GAX9</ns1:sessionid></ns1:balanceRequest></ns1:balance></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><balanceResponse xmlns="urn:GCASHWS"><balanceReturn><transid>1893501182</transid><result>0</result><result_namespace>utrust</result_namespace><balance>56545972.69</balance></balanceReturn></balanceResponse></S:Body></S:Envelope>
+
+login|2019-07-23 14:59:33|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>CD6FA36AAC160E8234A7700E9BBEEF933D685596</ns1:pin><ns1:sessionid>UQGUWZ7YJ5652TOJG2P0</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1893496106</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+balance|2019-07-23 14:59:33|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:balance><ns1:balanceRequest><ns1:sessionid>UQGUWZ7YJ5652TOJG2P0</ns1:sessionid></ns1:balanceRequest></ns1:balance></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><balanceResponse xmlns="urn:GCASHWS"><balanceReturn><transid>1893496107</transid><result>0</result><result_namespace>utrust</result_namespace><balance>56540972.69</balance></balanceReturn></balanceResponse></S:Body></S:Envelope>
+
+login|2019-07-23 14:59:47|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>3143394C5176A9839BE807DE48E875CB00DC7C09</ns1:pin><ns1:sessionid>170C4XNGVVTTG526026M</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1893508381</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+balance|2019-07-23 14:59:47|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:balance><ns1:balanceRequest><ns1:sessionid>170C4XNGVVTTG526026M</ns1:sessionid></ns1:balanceRequest></ns1:balance></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><balanceResponse xmlns="urn:GCASHWS"><balanceReturn><transid>1893508382</transid><result>0</result><result_namespace>utrust</result_namespace><balance>56538261.35</balance></balanceReturn></balanceResponse></S:Body></S:Envelope>
+
+login|2019-07-23 16:02:43|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:login><ns1:loginRequest><ns1:initiator>puregold-ho</ns1:initiator><ns1:pin>1870A57F5198B1AD0A58FA38D7650C327D7EBB20</ns1:pin><ns1:sessionid>9MBKQ8ZYMNAI0RO3IARS</ns1:sessionid></ns1:loginRequest></ns1:login></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><loginResponse xmlns="urn:GCASHWS"><loginReturn><transid>1895218182</transid><result>0</result><result_namespace>utrust</result_namespace></loginReturn></loginResponse></S:Body></S:Envelope>
+
+balance|2019-07-23 16:02:44|<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="urn:GCASHWS"><SOAP-ENV:Body><ns1:balance><ns1:balanceRequest><ns1:sessionid>9MBKQ8ZYMNAI0RO3IARS</ns1:sessionid></ns1:balanceRequest></ns1:balance></SOAP-ENV:Body></SOAP-ENV:Envelope>
+|<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><balanceResponse xmlns="urn:GCASHWS"><balanceReturn><transid>1895218184</transid><result>0</result><result_namespace>utrust</result_namespace><balance>55457542.87</balance></balanceReturn></balanceResponse></S:Body></S:Envelope>
+
